@@ -1,0 +1,56 @@
+```
+Offres Prépayés 6
+├── DOUBLIHA
+├── TOURIST SIM
+├── JAWEKNET
+├── TRANKIL
+├── HADRANET 
+└── PASS ETUDIANT
+
+Offres à Facture 3
+├── FORFAITS OH!MÉGA 
+├── FORFAITS OH!LAVOIX 
+└── FATOURA
+
+Internet Mobile 6
+├── FORFAITS INTERNET @@@
+├── PROLONGATION DE VALIDITÉ @@@
+├── EHDIA NET
+├── FORFAITS PARTAGÉS @@@
+├── INTERNET صبّة @@@
+└── TRANSFERT INTERNET  
+
+Options & Services 21
+├── CODES DES SERVICES 
+├── ESIM
+├── PORTABILITÉ  
+├── MY TT
+├── Forfaits « El 3échra
+├── Inscription élève  
+├── SAJALNI
+├── SOS BIP
+├── SOS SOLDE
+├── SMS JOIGNABILITÉ
+├── DUO
+├── TRANSFERT D'APPEL  
+├── MOBIRACID
+├── MESSAGERIE VOCALE
+├── SMS APPEL MANQUÉ
+├── KALLEMNI  
+├── TABBA3NI  
+├── TFADHAL
+├── DOUBLE APPEL
+├── MMS 
+└── CESSION PRÉPAYÉE  
+
+
+International & Roaming 5
+├── L'INTERNATIONAL 
+├── ROAMING 
+├── PASS-PARTOUT
+├── PASS ROAMING DATA 
+└── SMART ROAMING 
+
+Promotions 1
+└── JEU RAMADHAN 2025
+```
